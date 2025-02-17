@@ -6,7 +6,7 @@ Note: This version is not responsive, meaning it might not look great on mobile 
 
 🎯 Live Demo
 
-(https://mirza-anas18.github.io/web-dev/first-portfolio/)
+(https://mirza-anas18.github.io/web-dev/second-portfolio/)
 
 ✨ Connect with Me :
 
