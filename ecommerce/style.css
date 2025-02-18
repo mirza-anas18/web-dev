@@ -246,7 +246,7 @@ p {
 }
 
 #off-banner {
-    background-image: url(images/banner/b2.jpg);
+    background-image: url(images/b2.jpg);
     background-size: cover;
     width: 100%;
     height: 40vh;
@@ -308,24 +308,24 @@ span {
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);}
 
 #banners .big-banner-1 {
-    background-image: url(images/banner/b17.jpg);
+    background-image: url(images/b17.jpg);
 }
 
 
 #banners .big-banner-2 {
-    background-image: url(images/banner/b10.jpg);
+    background-image: url(images/b10.jpg);
 }
 
 #banners .small-banner-1 {
-    background-image: url(images/banner/b7.jpg);
+    background-image: url(images/b7.jpg);
 }
 
 #banners .small-banner-2 {
-    background-image: url(images/banner/b4.jpg);
+    background-image: url(images/b4.jpg);
 }
 
 #banners .small-banner-3 {
-    background-image: url(images/banner/b18.jpg);
+    background-image: url(images/b18.jpg);
 }
 
 #banners .big-banners button{
@@ -382,7 +382,7 @@ span {
 }
 
 #last-nav {
-    background-image: url(images/banner/b14.png);
+    background-image: url(images/b14.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #041e42;
