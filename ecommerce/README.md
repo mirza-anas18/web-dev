@@ -12,8 +12,6 @@ Product listing and detail pages
 
 Shopping cart (Frontend only)
 
-Responsive navigation and layout
-
 About and contact pages
 
 🎯 Live Demo:
