@@ -21,3 +21,6 @@ This is my first JavaScript project — a simple yet useful counter app!
 ## 🙌 What I Learned
 - DOM Manipulation with JS
 - Working with event listeners
+
+## 🔗 Live Demo :
+[Click here to see it live] : (https://mirza-anas18.github.io/web-dev/click-counter)
