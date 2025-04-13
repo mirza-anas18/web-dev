@@ -21,4 +21,4 @@ This is a simple **Tic Tac Toe** game built using **JavaScript**, **HTML**, and 
 2. Players take turns — Player O always goes first.
 3. The game will announce the winner or a draw once a condition is met.
 
-You can play the game here: [Live Demo](https://mirza-anas18.github.io/web-dev/tic-tac-toe/)
+You can play the game here:  https://mirza-anas18.github.io/web-dev/Tic Tac Toe
